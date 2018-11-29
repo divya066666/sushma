@@ -1,0 +1,2 @@
+S="btabb"
+print "yes"
