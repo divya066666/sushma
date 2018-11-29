@@ -1,0 +1,2 @@
+s="HelloWorld"
+print "HelloWorld"
